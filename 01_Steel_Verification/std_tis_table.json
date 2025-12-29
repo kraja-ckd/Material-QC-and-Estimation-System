@@ -1,0 +1,51 @@
+{
+  "RB6": {
+    "description": "Round Bar 6mm (SR24)",
+    "standard_weight_kg_m": 0.222,
+    "tolerance_percent": 6.0,
+    "min_weight": 0.208,
+    "max_weight": 0.235
+  },
+  "RB9": {
+    "description": "Round Bar 9mm (SR24)",
+    "standard_weight_kg_m": 0.499,
+    "tolerance_percent": 6.0,
+    "min_weight": 0.469,
+    "max_weight": 0.529
+  },
+  "DB12": {
+    "description": "Deformed Bar 12mm (SD40/SD50)",
+    "standard_weight_kg_m": 0.888,
+    "tolerance_percent": 6.0,
+    "min_weight": 0.835,
+    "max_weight": 0.941
+  },
+  "DB16": {
+    "description": "Deformed Bar 16mm (SD40/SD50)",
+    "standard_weight_kg_m": 1.58,
+    "tolerance_percent": 5.0,
+    "min_weight": 1.50,
+    "max_weight": 1.66
+  },
+  "DB20": {
+    "description": "Deformed Bar 20mm (SD40/SD50)",
+    "standard_weight_kg_m": 2.47,
+    "tolerance_percent": 5.0,
+    "min_weight": 2.35,
+    "max_weight": 2.59
+  },
+  "DB25": {
+    "description": "Deformed Bar 25mm (SD40/SD50)",
+    "standard_weight_kg_m": 3.85,
+    "tolerance_percent": 4.0,
+    "min_weight": 3.70,
+    "max_weight": 4.00
+  },
+  "DB28": {
+    "description": "Deformed Bar 28mm (SD40/SD50)",
+    "standard_weight_kg_m": 4.83,
+    "tolerance_percent": 4.0,
+    "min_weight": 4.64,
+    "max_weight": 5.02
+  }
+}
