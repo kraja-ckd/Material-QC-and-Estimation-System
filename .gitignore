@@ -1,0 +1,12 @@
+# Ignore real data files
+*.xlsx
+*.csv
+*.xls
+
+# Allow sample data in specific folder
+!data_samples/*.xlsx
+!data_samples/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
